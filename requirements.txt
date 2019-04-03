@@ -1,0 +1,7 @@
+numpy>=1.14.2
+matplotlib>=2.2.2
+Pillow>=5.1.0
+scikit-learn>=0.19.1
+scipy>=1.1.0
+incremental>=17.5.0
+twisted>=18.4.0
