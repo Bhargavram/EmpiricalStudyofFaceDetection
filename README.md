@@ -5,7 +5,22 @@ Participants:
 - John Zhu zhujohn64@gmail.com
 - Bhargav Ram Mandadi sh27293@umbc.edu
 
-This project aims to implement Viola-Jones Algorithm [1] and improve the performance.
+This project aims to implement Viola-Jones Algorithm [1] and improve its performance.
+
+## Python Libraries Required
+- numpy>=1.14.2
+- matplotlib>=2.2.2
+- Pillow>=5.1.0
+- scikit-learn>=0.19.1
+- scipy>=1.1.0
+- incremental>=17.5.0
+- twisted>=18.4.0
+
+## Usage
+1. Facial features from the image are extracted by executing `gabor_extract.py`
+2. Integral image with the facial features is formed by executing `integral_image.py`
+3. Build a strong classifier by combining the weak classifiers usind `cascade_detector.py`
+
 
 ## Features
 Viola, P., & Jones, M. [1] used three different kinds of features in the algorithm:
