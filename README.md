@@ -1,9 +1,5 @@
 # The implementation of Viola-Jones Algorithm
 
-Participants:
-- Hakju Oh hakju@umbc.edu
-- John Zhu zhujohn64@gmail.com
-- Bhargav Ram Mandadi sh27293@umbc.edu
 
 This project aims to implement Viola-Jones Algorithm [1] and improve its performance.
 
@@ -31,7 +27,10 @@ Lienhart, R., & Maydt, J. [2] introduced an extended set of twisted Haar-like fe
 
 <img src="docs/images/extended_features.png" width="239" height="209">
 
-
+## Participants:
+- Hakju Oh hakju@umbc.edu
+- John Zhu zhujohn64@gmail.com
+- Bhargav Ram Mandadi sh27293@umbc.edu
 ## References
 
 1. Viola, P., & Jones, M. (2001). Rapid object detection using a boosted cascade of simple features. In Computer Vision and Pattern Recognition, 2001. CVPR 2001. Proceedings of the 2001 IEEE Computer Society Conference on (Vol. 1, pp. I-I). IEEE.
