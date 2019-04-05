@@ -1,7 +1,9 @@
 # The implementation of Viola-Jones Algorithm
 
 Participants:
-- Bhargav Ram Mandadi <sh27293@umbc.edu>
+- Hakju Oh hakju@umbc.edu
+- John Zhu zhujohn64@gmail.com
+- Bhargav Ram Mandadi sh27293@umbc.edu
 
 This project aims to implement Viola-Jones Algorithm [1] and improve the performance.
 
